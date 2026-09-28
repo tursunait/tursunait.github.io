@@ -38,9 +38,9 @@ function Contact() {
             I will get back to you.
           </p>
           <p>
-            San Francisco, CA · (650)269-5878 ·{" "}
-            <a href="mailto:tursunai.turumbekova@duke.edu">
-              tursunai.turumbekova@duke.edu
+            San Francisco Bay Area, CA · (650)269-5878 ·{" "}
+            <a href="mailto:tursunai.tu@gmail.com">
+              tursunai.tu@gmail.com
             </a>{" "}
             ·{" "}
             <a href="https://www.linkedin.com/in/tursunait/" target="_blank" rel="noreferrer">
