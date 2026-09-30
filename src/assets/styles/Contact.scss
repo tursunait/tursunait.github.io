@@ -7,8 +7,14 @@
 .contact-form {
   padding-top: 20px;
 
+  .MuiOutlinedInput-root {
+    background-color: white;
+  }
+
   .MuiInputBase-input {
     color: #1f1f1f !important;
+    -webkit-text-fill-color: #1f1f1f;
+    caret-color: #1f1f1f;
   }
 
   .MuiInputBase-input::placeholder {
@@ -44,7 +50,7 @@
   }
 
   fieldset {
-    background-color: white;
+    background-color: transparent;
   }
 }
 
